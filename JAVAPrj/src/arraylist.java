@@ -2,6 +2,9 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
+import java.util.Iterator;
+import java.util.List;
+
 public class arraylist {
 
 	//List 인터페이스는 메모리에 올릴 수 없기 떄문에 ArrayList 클래스를 통해 메모리를 올림
@@ -11,8 +14,8 @@ public class arraylist {
 		//List 컬렉션 프레임워크에 데이터를 추가함
 		rList.add("지태환");
 		rList.add("태환 지");
-		rList.add("wlxoghks");
 		rList.add("thj");
+		rList.add("wlxoghks");
 		
 		//배열크기 출력
 		//배열의 크기를 알기 때문에 while이아니라 for문을 사용
